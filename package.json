@@ -1,0 +1,13 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain made with Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/danmin20/blockchain.git",
+  "author": "Lee Jeong Min <danmin20@khu.ac.kr>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
